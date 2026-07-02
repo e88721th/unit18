@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一飯千金」這句俗諺的意思是？",
+    "options": ["吃一頓飯要花很多錢", "隆重厚地報答對自己有恩的人", "一頓飯很貴", "千金難買一頓飯"],
+    "answer": 1,
+    "explanation": "比喻隆重厚地報答對自己有恩的人。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一日千里」這句俗諺常用來形容什麼？",
+    "options": ["一天跑一千里", "進步神速或事業發展得很快", "一天走很遠的路", "時間過得很快"],
+    "answer": 1,
+    "explanation": "比喻進步神速或事業發展得很快。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一手遮天」這句俗諺的意思是？",
+    "options": ["用一隻手遮住天空", "玩弄權術，欺瞞眾人的耳目", "天很暗", "一個人遮住太陽"],
+    "answer": 1,
+    "explanation": "比喻玩弄權術，欺瞞眾人的耳目。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一毛不拔」這句俗諺常用來形容什麼人？",
+    "options": ["很會拔毛", "非常吝嗇", "身上沒有毛", "很會省錢"],
+    "answer": 1,
+    "explanation": "譏諷人非常吝嗇。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一孔之見」這句俗諺的意思是？",
+    "options": ["只看到一個洞", "見識淺薄，只見片面，不見整體", "看得很清楚", "有很多意見"],
+    "answer": 1,
+    "explanation": "比喻人見識淺薄，只見片面，不見整體。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一本正經」這句俗諺常用來形容什麼？",
+    "options": ["一本書很正經", "態度莊重認真", "書很厚", "一本很重要的書"],
+    "answer": 1,
+    "explanation": "形容人態度莊重認真。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一目十行」這句俗諺的意思是？",
+    "options": ["一眼看十行", "閱讀的速度很快", "看十行字", "眼睛很大"],
+    "answer": 1,
+    "explanation": "形容人閱讀的速度很快。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一言九鼎」這句俗諺的意思是？",
+    "options": ["說一句話有九個鼎", "說話很有分量", "鼎很重", "九個鼎很重要"],
+    "answer": 1,
+    "explanation": "形容說話很有分量。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一波三折」這句俗諺的意思是？",
+    "options": ["一波海浪有三個折", "事情的進行曲折多變", "三個波浪", "波浪很漂亮"],
+    "answer": 1,
+    "explanation": "比喻事情的進行曲折多變。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "proverb",
+    "question": "「一馬當先」這句俗諺的意思是？",
+    "options": ["一匹馬跑在最前面", "趕在眾人之前，領先前進", "馬很厲害", "一匹馬很重要"],
+    "answer": 1,
+    "explanation": "趕在眾人之前，領先前進。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一飯千金」這句俗諺的意思是？",
+    "options": ["吃一頓飯要花很多錢", "隆重厚地報答對自己有恩的人", "一頓飯很貴", "千金難買一頓飯"],
+    "answer": 1,
+    "explanation": "比喻隆重厚地報答對自己有恩的人。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一日千里」這句俗諺常用來形容什麼？",
+    "options": ["一天跑一千里", "進步神速或事業發展得很快", "一天走很遠的路", "時間過得很快"],
+    "answer": 1,
+    "explanation": "比喻進步神速或事業發展得很快。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一手遮天」這句俗諺的意思是？",
+    "options": ["用一隻手遮住天空", "玩弄權術，欺瞞眾人的耳目", "天很暗", "一個人遮住太陽"],
+    "answer": 1,
+    "explanation": "比喻玩弄權術，欺瞞眾人的耳目。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一毛不拔」這句俗諺常用來形容什麼人？",
+    "options": ["很會拔毛", "非常吝嗇", "身上沒有毛", "很會省錢"],
+    "answer": 1,
+    "explanation": "譏諷人非常吝嗇。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一孔之見」這句俗諺的意思是？",
+    "options": ["只看到一個洞", "見識淺薄，只見片面，不見整體", "看得很清楚", "有很多意見"],
+    "answer": 1,
+    "explanation": "比喻人見識淺薄，只見片面，不見整體。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一本正經」這句俗諺常用來形容什麼？",
+    "options": ["一本書很正經", "態度莊重認真", "書很厚", "一本很重要的書"],
+    "answer": 1,
+    "explanation": "形容人態度莊重認真。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一目十行」這句俗諺的意思是？",
+    "options": ["一眼看十行", "閱讀的速度很快", "看十行字", "眼睛很大"],
+    "answer": 1,
+    "explanation": "形容人閱讀的速度很快。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一言九鼎」這句俗諺的意思是？",
+    "options": ["說一句話有九個鼎", "說話很有分量", "鼎很重", "九個鼎很重要"],
+    "answer": 1,
+    "explanation": "形容說話很有分量。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一波三折」這句俗諺的意思是？",
+    "options": ["一波海浪有三個折", "事情的進行曲折多變", "三個波浪", "波浪很漂亮"],
+    "answer": 1,
+    "explanation": "比喻事情的進行曲折多變。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "proverb",
+    "question": "「一馬當先」這句俗諺的意思是？",
+    "options": ["一匹馬跑在最前面", "趕在眾人之前，領先前進", "馬很厲害", "一匹馬很重要"],
+    "answer": 1,
+    "explanation": "趕在眾人之前，領先前進。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一日三秋」這句俗諺的意思是？",
+    "options": ["一天等很久像三年", "一天吃三次秋天", "三天吃一次飯", "秋天很長"],
+    "answer": 0,
+    "explanation": "比喻分別時間雖短，卻覺得很長。形容思念殷切。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一落千丈」這句俗諺常用來形容什麼？",
+    "options": ["業務、成績、地位、聲望等急遽下降", "從一千丈高的地方掉下來", "落下一千丈", "一千丈很高"],
+    "answer": 0,
+    "explanation": "指業務、成績、地位、聲望等急遽下降。"
+  },
+  {
+    "id": 23,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一諾千金」這句俗諺的意思是？",
+    "options": ["信用高，一旦許諾必定做到", "一千金子", "諾言很貴", "一千個諾言"],
+    "answer": 0,
+    "explanation": "形容信用高，一旦許諾別人，必定做到。"
+  },
+  {
+    "id": 24,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一蹶不振」這句俗諺的意思是？",
+    "options": ["遭受挫折或失敗後，無法再振作恢復", "一腳踢不動", "振作起來", "一蹶很厲害"],
+    "answer": 0,
+    "explanation": "比喻遭受挫折或失敗後，無法再振作恢復。"
+  },
+  {
+    "id": 25,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一葉知秋」這句俗諺的意思是？",
+    "options": ["由細小的徵兆，就可以推知事物的演變和趨勢", "一片葉子知道秋天", "秋天有很多葉子", "葉子掉下來"],
+    "answer": 0,
+    "explanation": "比喻由細小的徵兆，就可以推知事物的演變和趨勢。"
+  },
+  {
+    "id": 26,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一夫當關，萬夫莫敵」這句俗諺常用來形容什麼？",
+    "options": ["地勢十分險要", "一個人很強", "萬夫很弱", "關口很重要"],
+    "answer": 0,
+    "explanation": "形容地勢十分險要。"
+  },
+  {
+    "id": 27,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一言既出，駟馬難追」這句俗諺主要在提醒我們什麼？",
+    "options": ["說話要謹慎", "說話要大聲", "說話要快", "說話要慢"],
+    "answer": 0,
+    "explanation": "話說出口就難以收回。"
+  },
+  {
+    "id": 28,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「萬事俱備，只欠東風」比喻什麼情況？",
+    "options": ["一切準備好了，只缺最後關鍵條件", "東風很重要", "萬事都很順利", "只欠錢"],
+    "answer": 0,
+    "explanation": "比喻辦一件事，一切都準備好了，就缺最後的關鍵條件。"
+  },
+  {
+    "id": 29,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「一人得道，雞犬升天」最常用來形容什麼？",
+    "options": ["一個人得勢，周圍的人也跟著沾光", "雞和狗升天", "得道很簡單", "一人得道很難"],
+    "answer": 0,
+    "explanation": "比喻一個人得勢，周圍的人也跟著沾光。"
+  },
+  {
+    "id": 30,
+    "unit": 3,
+    "category": "proverb",
+    "question": "「三軍易得，一將難求」主要在強調什麼？",
+    "options": ["將才非常難得", "軍隊很容易組成", "三軍很重要", "將軍比士兵重要"],
+    "answer": 0,
+    "explanation": "比喻將才難得。"
+  }
+]
