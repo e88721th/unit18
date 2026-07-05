@@ -448,5 +448,275 @@
     "options": ["再三的命令告誡", "讚美人的言論", "令人頭痛的命令與申斥", "再三的違法"],
     "answer": 0,
     "explanation": "比喻再三的命令告誡。"
+  },
+  {
+    "id": 51,
+    "unit": 6,
+    "category": "proverb",
+    "question": "他的母親今年已三十四歲，由於保養得當，看上去更像是個（  ）。",
+    "options": ["二八佳人", "一日千里", "一手遮天", "一毛不拔"],
+    "answer": 0,
+    "explanation": "二八佳人：十六歲的少女。"
+  },
+  {
+    "id": 52,
+    "unit": 6,
+    "category": "proverb",
+    "question": "你我兩家的孩子既然情投意合，我們成為（  ），這也是一件好事。",
+    "options": ["二姓之好", "二三其德", "二桃殺三士", "一日三秋"],
+    "answer": 0,
+    "explanation": "二姓之好：兩家因婚姻關係而成為親戚。"
+  },
+  {
+    "id": 53,
+    "unit": 6,
+    "category": "proverb",
+    "question": "詩曰：之子無良，（  ）。指其做人三心二意，反覆無常。",
+    "options": ["二三其德", "二八佳人", "二姓之好", "二桃殺三士"],
+    "answer": 0,
+    "explanation": "二三其德：三心二意，沒有一定的節操。"
+  },
+  {
+    "id": 54,
+    "unit": 6,
+    "category": "proverb",
+    "question": "狡詐的國王，「（  ）」，以計謀除去了心頭之患。",
+    "options": ["二桃殺三士", "二三其德", "二姓之好", "二八佳人"],
+    "answer": 0,
+    "explanation": "二桃殺三士：運用計謀借刀殺人。"
+  },
+  {
+    "id": 55,
+    "unit": 6,
+    "category": "proverb",
+    "question": "隻身在外要注意安全，若有個（  ），怎麼對得起父母呢？",
+    "options": ["三長兩短", "三姑六婆", "三思而行", "三緘其口"],
+    "answer": 0,
+    "explanation": "三長兩短：意外的變故，多指疾病及死亡。"
+  },
+  {
+    "id": 56,
+    "unit": 6,
+    "category": "proverb",
+    "question": "你也別總是像那些（  ），四處嚼舌根了，旁人都很受不了。",
+    "options": ["三姑六婆", "三長兩短", "三思而行", "三緘其口"],
+    "answer": 0,
+    "explanation": "三姑六婆：比喻喜歡搬弄是非的婦女。"
+  },
+  {
+    "id": 57,
+    "unit": 6,
+    "category": "proverb",
+    "question": "結婚是終身大事，不可輕率，務必（  ），以免後悔。",
+    "options": ["三思而行", "三姑六婆", "三長兩短", "三緘其口"],
+    "answer": 0,
+    "explanation": "三思而行：形容謹慎行事。"
+  },
+  {
+    "id": 58,
+    "unit": 6,
+    "category": "proverb",
+    "question": "對於不了解的事，我們最好（  ），以免多言而壞了大事。",
+    "options": ["三緘其口", "三思而行", "三姑六婆", "三長兩短"],
+    "answer": 0,
+    "explanation": "三緘其口：比喻言語謹慎或閉口不說話。"
+  },
+  {
+    "id": 59,
+    "unit": 6,
+    "category": "proverb",
+    "question": "任憑那歹徒有（  ），警方也要將他逮捕歸案。",
+    "options": ["三頭六臂", "三長兩短", "三思而行", "三緘其口"],
+    "answer": 0,
+    "explanation": "三頭六臂：比喻人神通廣大，力強可畏。"
+  },
+  {
+    "id": 60,
+    "unit": 6,
+    "category": "proverb",
+    "question": "縱然警方（  ）地要汽車駕駛人喝酒不開車，但有些民眾還是我行我素。",
+    "options": ["三令五申", "三頭六臂", "三長兩短", "三緘其口"],
+    "answer": 0,
+    "explanation": "三令五申：比喻再三的命令告誡。"
+  },
+  {
+    "id": 61,
+    "unit": 7,
+    "category": "proverb",
+    "question": "儘管這些傳說都是空穴來風，但（  ），我們也不得不有所防備。",
+    "options": ["三人成虎", "三長兩短", "三思而行", "三緘其口"],
+    "answer": 0,
+    "explanation": "三人成虎：比喻謠言惑眾。"
+  },
+  {
+    "id": 62,
+    "unit": 7,
+    "category": "proverb",
+    "question": "王董事長新成立公司，不惜（  ）聘請他。",
+    "options": ["三顧茅廬", "三人成虎", "三令五申", "三頭六臂"],
+    "answer": 0,
+    "explanation": "三顧茅廬：比喻敬賢之禮或誠心邀請。"
+  },
+  {
+    "id": 63,
+    "unit": 7,
+    "category": "proverb",
+    "question": "他自稱自幼博覽（  ），精研河洛易數。",
+    "options": ["三墳五典", "三顧茅廬", "三人成虎", "三長兩短"],
+    "answer": 0,
+    "explanation": "三墳五典：傳說中上古時代的書籍。"
+  },
+  {
+    "id": 64,
+    "unit": 7,
+    "category": "proverb",
+    "question": "今夜得聞先生金玉良言，真是（  ）。",
+    "options": ["三生有幸", "三墳五典", "三顧茅廬", "三人成虎"],
+    "answer": 0,
+    "explanation": "三生有幸：多用以謙稱榮幸之至。"
+  },
+  {
+    "id": 65,
+    "unit": 7,
+    "category": "proverb",
+    "question": "這人真小氣，就像隻鐵公雞，（  ）。",
+    "options": ["一毛不拔", "一日千里", "一手遮天", "一孔之見"],
+    "answer": 0,
+    "explanation": "一毛不拔：譏諷人非常吝嗇。"
+  },
+  {
+    "id": 66,
+    "unit": 7,
+    "category": "proverb",
+    "question": "突破了學習的心理障礙後，他的進步可以說是（  ）。",
+    "options": ["一日千里", "一毛不拔", "一手遮天", "一孔之見"],
+    "answer": 0,
+    "explanation": "一日千里：比喻進步神速。"
+  },
+  {
+    "id": 67,
+    "unit": 7,
+    "category": "proverb",
+    "question": "他擔任總經理以來，（  ），如今都快把公司搞垮了。",
+    "options": ["一手遮天", "一日千里", "一毛不拔", "一孔之見"],
+    "answer": 0,
+    "explanation": "一手遮天：比喻玩弄權術，欺瞞眾人。"
+  },
+  {
+    "id": 68,
+    "unit": 7,
+    "category": "proverb",
+    "question": "別以為我們是聰明的，其實我們的知識算是（  ）而已。",
+    "options": ["一孔之見", "一手遮天", "一毛不拔", "一日千里"],
+    "answer": 0,
+    "explanation": "一孔之見：比喻見識淺薄，只見片面。"
+  },
+  {
+    "id": 69,
+    "unit": 7,
+    "category": "proverb",
+    "question": "看他說得（  ）的樣子，不像是開玩笑。",
+    "options": ["一本正經", "一孔之見", "一手遮天", "一毛不拔"],
+    "answer": 0,
+    "explanation": "一本正經：形容態度莊重認真。"
+  },
+  {
+    "id": 70,
+    "unit": 7,
+    "category": "proverb",
+    "question": "速讀就是在訓練（  ）的潛質。",
+    "options": ["一目十行", "一本正經", "一孔之見", "一手遮天"],
+    "answer": 0,
+    "explanation": "一目十行：形容閱讀速度很快。"
+  },
+  {
+    "id": 71,
+    "unit": 8,
+    "category": "proverb",
+    "question": "李老闆說話（  ），為人做事絕對可信。",
+    "options": ["一言九鼎", "一目十行", "一本正經", "一孔之見"],
+    "answer": 0,
+    "explanation": "一言九鼎：形容說話很有分量。"
+  },
+  {
+    "id": 72,
+    "unit": 8,
+    "category": "proverb",
+    "question": "堂姐的求職過程（  ），最後終於找到適合的工作。",
+    "options": ["一波三折", "一言九鼎", "一目十行", "一本正經"],
+    "answer": 0,
+    "explanation": "一波三折：比喻事情進行曲折多變。"
+  },
+  {
+    "id": 73,
+    "unit": 8,
+    "category": "proverb",
+    "question": "每次見到有人需要幫忙時，家華總是（  ），當仁不讓。",
+    "options": ["一馬當先", "一波三折", "一言九鼎", "一目十行"],
+    "answer": 0,
+    "explanation": "一馬當先：趕在眾人之前，領先前進。"
+  },
+  {
+    "id": 74,
+    "unit": 8,
+    "category": "proverb",
+    "question": "自從丈夫離家後，她天天望君早歸，等待的心情宛如（  ）。",
+    "options": ["一日三秋", "一馬當先", "一波三折", "一言九鼎"],
+    "answer": 0,
+    "explanation": "一日三秋：比喻思念殷切。"
+  },
+  {
+    "id": 75,
+    "unit": 8,
+    "category": "proverb",
+    "question": "自從有了捷運之後，計程車的生意（  ）。",
+    "options": ["一落千丈", "一日三秋", "一馬當先", "一波三折"],
+    "answer": 0,
+    "explanation": "一落千丈：指急遽下降。"
+  },
+  {
+    "id": 76,
+    "unit": 8,
+    "category": "proverb",
+    "question": "老張為人（  ），他敢答應，就表示他辦得到。",
+    "options": ["一諾千金", "一落千丈", "一日三秋", "一馬當先"],
+    "answer": 0,
+    "explanation": "一諾千金：形容信用高。"
+  },
+  {
+    "id": 77,
+    "unit": 8,
+    "category": "proverb",
+    "question": "我們要有愈挫愈勇的精神，千萬不可因為這點小事就（  ）。",
+    "options": ["一蹶不振", "一諾千金", "一落千丈", "一日三秋"],
+    "answer": 0,
+    "explanation": "一蹶不振：比喻無法振作恢復。"
+  },
+  {
+    "id": 78,
+    "unit": 8,
+    "category": "proverb",
+    "question": "他是個睿智的領導者，能（  ），洞燭機先。",
+    "options": ["一葉知秋", "一蹶不振", "一諾千金", "一落千丈"],
+    "answer": 0,
+    "explanation": "一葉知秋：由細小徵兆推知趨勢。"
+  },
+  {
+    "id": 79,
+    "unit": 8,
+    "category": "proverb",
+    "question": "弟弟帶同學來家裡玩，卻把家裡弄得（  ），讓爸爸氣得火冒三丈。",
+    "options": ["一塌糊塗", "一葉知秋", "一蹶不振", "一諾千金"],
+    "answer": 0,
+    "explanation": "一塌糊塗：形容情況非常糟糕。"
+  },
+  {
+    "id": 80,
+    "unit": 8,
+    "category": "proverb",
+    "question": "死亡對每個人都（  ），它會降臨到每個人的身上。",
+    "options": ["一視同仁", "一塌糊塗", "一葉知秋", "一蹶不振"],
+    "answer": 0,
+    "explanation": "一視同仁：平等對待，毫無歧視。"
   }
 ]
