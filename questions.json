@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "category": "story",
+    "question": "「一鼓作氣」的意思是？",
+    "options": ["做事有始無終", "趁著一股勁兒把事情做完", "擊鼓助興", "氣勢洶洶"],
+    "answer": 1,
+    "explanation": "出自《左傳》，指做事要趁第一次熱情完成。"
+  },
+  {
+    "id": 2,
+    "category": "four",
+    "question": "「畫蛇添足」比喻什麼？",
+    "options": ["多此一舉", "精益求精", "弄巧成拙", "雪中送炭"],
+    "answer": 0,
+    "explanation": "比喻做多餘的事，反而壞事。"
+  },
+  {
+    "id": 3,
+    "category": "wisdom",
+    "question": "「守株待兔」的意思是？",
+    "options": ["努力耕耘", "等待好運", "不知變通", "刻舟求劍"],
+    "answer": 2,
+    "explanation": "比喻死守經驗，不知變通。"
+  },
+  {
+    "id": 4,
+    "category": "story",
+    "question": "「狐假虎威」比喻？",
+    "options": ["借勢欺人", "與虎為友", "非常勇敢", "假裝善良"],
+    "answer": 0,
+    "explanation": "依仗他人權勢欺壓別人。"
+  },
+  {
+    "id": 5,
+    "category": "story",
+    "question": "「三顧茅廬」形容？",
+    "options": ["多次拜訪", "誠心邀請人才", "隱居山林", "戰略計畫"],
+    "answer": 1,
+    "explanation": "劉備三次拜訪諸葛亮，請他出山輔佐。"
+  },
+  {
+    "id": 6,
+    "category": "four",
+    "question": "「一鳴驚人」是指？",
+    "options": ["平平無奇", "突然有傑出表現", "大聲喊叫", "鳥叫聲"],
+    "answer": 1,
+    "explanation": "比喻平時默默無聞，突然做出驚人成績。"
+  },
+  {
+    "id": 7,
+    "category": "wisdom",
+    "question": "「塞翁失馬」的後半句是？",
+    "options": ["焉知非福", "焉知非禍", "因禍得福", "禍福相依"],
+    "answer": 0,
+    "explanation": "比喻壞事有時反而會變成好事。"
+  },
+  {
+    "id": 8,
+    "category": "story",
+    "question": "「完璧歸趙」典故出自？",
+    "options": ["廉頗", "藺相如", "荊軻", "屈原"],
+    "answer": 1,
+    "explanation": "藺相如將和氏璧完整歸還趙國。"
+  },
+  {
+    "id": 9,
+    "category": "four",
+    "question": "「刻舟求劍」比喻？",
+    "options": ["不知變通", "做事認真", "技術高超", "珍惜物品"],
+    "answer": 0,
+    "explanation": "比喻死守教條，不知變通。"
+  },
+  {
+    "id": 10,
+    "category": "wisdom",
+    "question": "「滴水穿石」比喻？",
+    "options": ["堅持不懈", "水很厲害", "石頭軟", "速度很快"],
+    "answer": 0,
+    "explanation": "比喻力量雖小，但堅持下去就能成功。"
+  }
+]
