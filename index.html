@@ -38,7 +38,7 @@
   </div>
 
   <script>
-    let allQuestions = [], questions = [], wrongQuestions = [], current = 0, score = 0, timerInterval, timeLeft = 30, username = '', currentUnit = '';
+    let allQuestions = [], questions = [], wrongQuestions = [], current = 0, score = 0, timerInterval, timeLeft = 60, username = '', currentUnit = '';
 
     async function loadQuestions() {
       try {
@@ -87,7 +87,7 @@
       document.getElementById('quiz-container').innerHTML = `
         <div class="flex justify-between mb-6 text-sm font-medium">
           <span>單元 ${q.unit} • 第 <span id="q-number">${current+1}</span> / ${questions.length}</span>
-          <span id="timer" class="font-mono text-orange-600">30</span>
+          <span id="timer" class="font-mono text-orange-600">60</span>
         </div>
         <div class="text-2xl font-medium mb-6">${current + 1}. ${q.question}</div>
         <div class="grid gap-2">${s.map((o,i) => `<button onclick="select(${i}, ${correct}, '${q.explanation}')" class="option-btn bg-gray-50 border rounded-3xl">${String.fromCharCode(65+i)}. ${o}</button>`).join('')}</div>
@@ -116,14 +116,14 @@
     window.next = () => { current++; current < questions.length ? loadQuestion() : showResult(); };
 
     function startTimer() {
-      timeLeft = 30;
+      timeLeft = 60;
       const timerEl = document.getElementById('timer');
       if (timerEl) timerEl.textContent = timeLeft;
       clearInterval(timerInterval);
       timerInterval = setInterval(() => {
         timeLeft--;
         if (timerEl) timerEl.textContent = timeLeft;
-        if (timeLeft <= 5 && timerEl) timerEl.classList.add('text-red-600');
+        if (timeLeft <= 10 && timerEl) timerEl.classList.add('text-red-600');
         if (timeLeft <= 0) {
           clearInterval(timerInterval);
           next(true);
@@ -161,7 +161,7 @@
     function showResult() {
       const pct = Math.round((score / questions.length) * 100);
       const scores = JSON.parse(localStorage.getItem('idiomHighScores') || '[]');
-      scores.push({ username, score: pct, unit: currentUnit, date: new Date().toLocaleDateString() });
+      scores.push({ username, score: pct, unit: currentUnit || '全', date: new Date().toLocaleDateString() });
       localStorage.setItem('idiomHighScores', JSON.stringify(scores.sort((a,b) => b.score - a.score)));
       
       document.getElementById('quiz-container').innerHTML = `
@@ -177,10 +177,12 @@
     }
 
     window.startReview = function() { questions = shuffle([...wrongQuestions]); resetQuiz(); };
+
     window.showLeaderboard = function() {
       const s = JSON.parse(localStorage.getItem('idiomHighScores') || '[]');
       document.getElementById('quiz-container').innerHTML = `<h2 class="text-2xl font-bold mb-4">🏆 成績</h2><table class="w-full">${s.map((x,i) => `<tr class="${x.username===username?'bg-blue-100':''}"><td>${i+1}</td><td>${x.username}</td><td>${x.score}%</td></tr>`).join('')}</table><button onclick="location.reload()" class="mt-6 w-full py-3 bg-gray-200 rounded-3xl">返回</button>`;
     };
+
     window.onload = loadQuestions;
   </script>
 </body>
